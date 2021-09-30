@@ -1,2 +1,2 @@
 # Pytorch-Practice
-* **Pytorch Tutorial를 복습하는 레포지토리 입니다.**
+* **Pytorch를 공부하는 레포지토리 입니다.**
